@@ -41,7 +41,7 @@
                         result[7] = "--D-----D--";
                         result[8] = "---C---C---";
                         result[9] = "----B-B----";
-                        result[10] = "-----A-----";		
+                       result[10] = "-----A-----";		
   	        }
  return result;
    
