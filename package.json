@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminfunk/diamondkata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasminfunk/diamondkata/issues"
+  },
+  "homepage": "https://github.com/yasminfunk/diamondkata#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
