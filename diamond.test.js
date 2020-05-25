@@ -1,4 +1,4 @@
-const {diamond, edge} = require ('./src/diamond.js')
+const {diamond, edge} = require ('./diamond')
 
 describe ("diamond", () => {
     it ("it should output A for A", () => {
