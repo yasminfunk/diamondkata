@@ -1,5 +1,5 @@
 function diamond(c){
-        var result = new String[2 * (c - 64) - 1];
+        let result = []
  		if (c == 'A') {
  			result[0] = "A";
  		} else if (c == 'B') {
@@ -704,12 +704,10 @@ function diamond(c){
 		   result[49] = "------------------------B-B------------------------";
 		   result[50] = "-------------------------A-------------------------";
 	}
-	//const final = result.join("\n");
-	//return final;
+	
 	return result;
-  
+
+}
 module.exports = {
 	diamond
-}
-
 }
